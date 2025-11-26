@@ -15,9 +15,9 @@ It was created as part of an academic assignment with strict rules (e.g., no arr
 - Multi-product support with precise alignment
 
 ##  Technologies Used
-- **Java** (core logic, console output)
-- **IntelliJ IDEA** (development environment)
-- **GitHub** (version control and documentation)
+- **Language:** Java (console-based, no arrays/loops)  
+- **IDE:** IntelliJ IDEA  
+- **Version Control:** Git & GitHub
 
 ##  How to Run
 1. Clone the repository:
